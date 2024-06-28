@@ -80,3 +80,4 @@ class MyApp(App):
 
 
 MyApp().run()
+print('ыввфывыф')
